@@ -21,6 +21,7 @@ Source code for the article *Bats Monitoring: A Classification Procedure of Bats
 ## Installation 
 
 Copy all files in the current working directory.
+Packages needed to run functions : PyTorch, NumPy, SciPy.
 
 ## Author
 
