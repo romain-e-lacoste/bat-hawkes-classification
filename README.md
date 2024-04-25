@@ -10,8 +10,8 @@ Loading with `torch.load`
 - X_unlabeled : sequence of start times of echolocation calls emitted by bats for unlabeled sites
 
 CSV format
-- data_set_labeled : labeled data set (the first column corresponds to the label values, the others to event times, with zero padding to match the maximum length)
-- data_set_unlabeled : unlabeled data set (event times with zero padding to match the maximum length)
+- data_set_labeled.csv : labeled data set (the first column corresponds to the label values, the others to event times, with zero padding to match the maximum length)
+- data_set_unlabeled.csv : unlabeled data set (event times with zero padding to match the maximum length)
 ## Functions 
 
 - classification.py : functions used in the classification procedure
