@@ -7,6 +7,7 @@ Source code for the article [Bats Monitoring: A Classification Procedure of Bats
 Loading with `torch.load`
 - X : sequence of start times of echolocation calls emitted by bats for each sites
 - Y : associated labels : 0 if the majority behavior at a site is commuting, 1 if the majority behavior is foraging
+
 CSV format
 - data_set_labeled : labeled data set (the first column corresponds to the label values, the others to event times, with zero padding to match the maximum length)
 - data_set_unlabeled : unlabeled data set (event times with zero padding to match the maximum length)
