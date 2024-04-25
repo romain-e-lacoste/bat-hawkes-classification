@@ -1,6 +1,6 @@
 # A Classification Procedure of Bats Behaviors based on Hawkes Processes
 
-Source code for the article *Bats Monitoring: A Classification Procedure of Bats Behaviors based on Hawkes Processes*.   <span> <a href="{{"https://hal.science/hal-04345822"}}"><i class="ai ai-hal ai-fw"></i> HAL</a> </span>
+Source code for the article [Bats Monitoring: A Classification Procedure of Bats Behaviors based on Hawkes Processes](https://hal.science/hal-04345822).
 
 ## Data
 
